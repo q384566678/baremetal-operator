@@ -1,5 +1,6 @@
 module github.com/metal3-io/baremetal-operator
 
+readhat
 go 1.13
 
 require (
